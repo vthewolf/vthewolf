@@ -3,7 +3,7 @@ I was born in **Ponferrada** but I'm actually living in **Valladolid**
 
 ***Skills:*** JAVA / MySQL / HTML / CSS 
 
-- 🔭 I’m currently working at The Cocktail. 
+- 🔭 I’m currently working as a Mobile Developer at The Cocktail. 
 - 🌱 I’m currently learning in a degree of multi platform application development. 
 - 📫 How to reach me: vsantiagoferrera@gmail.com 
 
