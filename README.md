@@ -5,7 +5,7 @@ I was born in **Ponferrada** but I'm actually living in **Valladolid**
 - 🌱 I’m currently learning in a degree of multi platform application development. 
 - 📫 How to reach me: vsantiagoferrera@gmail.com 
 
-### Tecnologías:
+### Skills:
 ![image](https://user-images.githubusercontent.com/79378136/187717626-b68d13d8-dfa5-4a24-8904-0b8f4a2b9c28.png)
 ![image](https://user-images.githubusercontent.com/79378136/187716913-08f7e7e9-80b8-4544-bcbf-65a0d4b54b0a.png)
 ![image](https://user-images.githubusercontent.com/79378136/187716952-063222e2-f81b-4587-bff9-659326087524.png)
