@@ -6,7 +6,11 @@ I was born in **Ponferrada** but I'm actually living in **Valladolid**
 - 📫 How to reach me: vsantiagoferrera@gmail.com 
 
 ### Tecnologías:
-![image](https://user-images.githubusercontent.com/79378136/187716471-368bcbe1-f731-4a27-b346-caac68bc6deb.png) ![image](https://user-images.githubusercontent.com/79378136/187716499-89258916-e1f9-4eda-a9db-97b1baceb40e.png) ![image](https://user-images.githubusercontent.com/79378136/187716530-067d7945-c32e-4792-8088-7672d8176ac3.png) ![image](https://user-images.githubusercontent.com/79378136/187716547-b1bb44a1-47c6-40bd-998e-8b23936b676c.png) ![image](https://user-images.githubusercontent.com/79378136/187716587-41ceb933-af30-49d7-8e89-4f52c119162a.png) ![image](https://user-images.githubusercontent.com/79378136/187716604-cb922e70-defd-43b1-ac3b-50559871037b.png) ![image](https://user-images.githubusercontent.com/79378136/187716623-5a032b1d-9c21-4d2c-8c37-3a8ec2608bbf.png) ![image](https://user-images.githubusercontent.com/79378136/187716657-d0cc4621-78ee-4500-980b-ce8a348beb60.png) ![image](https://user-images.githubusercontent.com/79378136/187716677-922d5a77-2d62-4959-b085-3da74d365017.png)
+![image](https://user-images.githubusercontent.com/79378136/187716913-08f7e7e9-80b8-4544-bcbf-65a0d4b54b0a.png)
+![image](https://user-images.githubusercontent.com/79378136/187716952-063222e2-f81b-4587-bff9-659326087524.png)
+![image](https://user-images.githubusercontent.com/79378136/187716973-4e20db78-1080-47a6-b5d2-1e64c862e479.png)
+![image](https://user-images.githubusercontent.com/79378136/187717004-5ea4fa17-179a-40d7-bf96-c8d57481aedf.png)
+![image](https://user-images.githubusercontent.com/79378136/187717017-39ab3b6d-037e-4f5a-889d-b77e6dd1f00e.png)
 
 ### You can contact me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vthewolf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vicsantiago1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/crackito/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/crackorz)  
