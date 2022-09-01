@@ -1,5 +1,3 @@
-![gif](https://user-images.githubusercontent.com/79378136/187858299-969ec2b6-01d7-43f5-a4dd-565db92dc5db.png)
-
 ### Hi there 👋, my name is Víctor! 
 I was born in **Ponferrada** but I'm actually living in **Valladolid**
 
