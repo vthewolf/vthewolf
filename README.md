@@ -2,7 +2,6 @@
 I was born in **Ponferrada** but I'm actually living in **Valladolid**
 
 - 🔭 I’m currently working as a Mobile Developer at The Cocktail. 
-- 🌱 Working to improve the Iberostar Android app. 
 - 📫 How to reach me: vsantiagoferrera@gmail.com 
 
 ### Skills:
