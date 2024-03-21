@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Víctor! 
 I was born in **Ponferrada** but I'm actually living in **Valladolid**
 
-- 🔭 I’m currently working as a Mobile Developer at The Cocktail. 
+- 🔭 I’m currently working as an Android developer at The Cocktail. 
 - 📫 How to reach me: vsantiagoferrera@gmail.com 
 
 ### Skills:
