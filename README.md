@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Víctor! 
-I was born in **Ponferrada** but I'm actually living in **Valladolid**
+I was born in **Ponferrada** but I'm actually living in **Zamora** (Spain)
 
 - 🔭 I’m currently working as an Android developer at The Cocktail. 
 - 📫 How to reach me: vsantiagoferrera@gmail.com 
