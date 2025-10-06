@@ -1,20 +1,73 @@
-### Hi there 👋, my name is Víctor! 
-I was born in **Ponferrada** but I'm actually living in **Zamora** (Spain)
+# 👋 Hi there, I'm Víctor Santiago
 
-- 🔭 I’m currently working as an Android developer at The Cocktail. 
-- 📫 How to reach me: vsantiagoferrera@gmail.com 
+🚀 **Android Developer** transitioning into **Cybersecurity & Cloud Security**.  
+With 3+ years of experience building high-quality Android apps, I’m now focusing on strengthening my technical foundations in **networks, Linux, and security practices** to move into roles that bridge **software engineering, systems, and cybersecurity**.
 
-### Skills:
-### ![image](https://camo.githubusercontent.com/e881b7afa2bd9db8c55132a95899d7e1cb8800ba237f451c7afde12e99b96be0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f62696c65253230446576656c6f706d656e742d2546302539462539332542312d626c75653f7374796c653d666f722d7468652d6261646765) 
-![image](https://user-images.githubusercontent.com/79378136/187716913-08f7e7e9-80b8-4544-bcbf-65a0d4b54b0a.png)
-![image](https://user-images.githubusercontent.com/79378136/187717626-b68d13d8-dfa5-4a24-8904-0b8f4a2b9c28.png)
-![image](https://user-images.githubusercontent.com/79378136/187716952-063222e2-f81b-4587-bff9-659326087524.png)
-![image](https://camo.githubusercontent.com/031659092e85df76a0ab830ef77631a750b67d379b29c24f7969ccbc2829743a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/7fb208b1c3ee5e1e0d541017c61c94f8070ce9509820f8f2f3a82191d240f0e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3031373543323f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465)
+---
 
+### 🧭 About me
+- 📍 Based in **Zamora, Spain**
+- 💼 Currently working as an **Mobile Developer** at [The Cocktail](https://www.the-cocktail.com/)
+- 🌩️ Transitioning into **Cloud & Cybersecurity**, building a hands-on portfolio
+- 🎯 Goal: become a **Cloud Security Engineer** combining app development, automation, and security
 
-### You can find me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vthewolf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vicsantiago1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/crackito/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/crackorz)  
+---
 
-<!--
-**vthewolf/vthewolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Currently Learning
+- 🐧 Linux system administration & networking fundamentals  
+- ☁️ Cloud concepts (Azure & AWS)
+- 🧰 Practical cybersecurity (via **TryHackMe** and **Hack The Box**)  
+- 🐍 Python scripting for automation & security tools  
+
+---
+
+### 🎓 Certifications
+- 🎓 **Google Cybersecurity Professional Certificate** (Coursera)  
+- 🧩 **Cisco Introduction to Cybersecurity**  
+- 🧠 **TryHackMe Pre-Security Path**  
+- 🧱 **TryHackMe Cybersecurity 101 (in progress)**  
+
+---
+
+### ⚙️ Tech Stack & Tools
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **Development** | Kotlin, Java, Android, Jetpack Compose, Flutter, Dart |
+| **Cloud & DevOps (learning)** | Azure, AWS, Linux, Bash, Git, Docker, Kubernetes |
+| **Cybersecurity** | Nmap, Wireshark, Burp Suite, TryHackMe |
+| **Scripting** | Python, Bash |
+
+---
+
+### 🧩 Portfolio & Labs
+
+I’m currently building my **cybersecurity portfolio** focused on practical, real-world exercises.  
+My first completed lab explores **basic Bash scripting** — automating simple tasks and learning core Linux shell concepts.
+
+Future labs will include:
+- 🖥️ Network scanning and enumeration  
+- 🔍 Web exploitation basics  
+- ☁️ Cloud security exercises  
+
+🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs)  
+
+---
+
+### 🌍 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor%20Santiago-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vicsantiago1/)
+[![GitHub](https://img.shields.io/badge/GitHub-vthewolf-black?style=flat&logo=github)](https://github.com/vthewolf)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-vthewolf-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/vthewolf)
+
+📫 **Email:** vsantiagoferrera@gmail.com  
+
+---
+
+### 💬 Fun facts
+- 🏋️‍♂️ I train CrossFit 5x a week and play golf on weekends.  
+- 🎮 Recently got a Nintendo Switch 2 — big fan of AAA titles.  
+- 📈 I’m also interested in **investing & financial freedom**, exploring side projects using **AI & app development**.
+
+---
+
+> “The best way to learn security is to break things safely.”
+
