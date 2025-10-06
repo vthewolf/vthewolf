@@ -64,5 +64,5 @@ I’m currently building my **cybersecurity portfolio** focused on practical, re
 
 ---
 
-> “The best way to learn security is to break things safely.”
+> "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are"
 
