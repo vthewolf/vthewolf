@@ -7,7 +7,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 
 ### 🧭 About me
 - 📍 Based in **Zamora, Spain**
-- 💼 Currently working as an **Mobile Developer** at [The Cocktail](https://www.the-cocktail.com/)
+- 💼 Currently working as a **Mobile Developer** at [The Cocktail](https://www.the-cocktail.com/)
 - 🌩️ Transitioning into **Cloud & Cybersecurity**, building a hands-on portfolio
 - 🎯 Goal: become a **Cloud Security Engineer** combining app development, automation, and security
 
@@ -56,7 +56,7 @@ Future labs will include:
 ### 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor%20Santiago-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vicsantiago1/)
 [![GitHub](https://img.shields.io/badge/GitHub-vthewolf-black?style=flat&logo=github)](https://github.com/vthewolf)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-vthewolf-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/vthewolf)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-vthewolf-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/vsantiagoferrera))
 
 📫 **Email:** vsantiagoferrera@gmail.com  
 
