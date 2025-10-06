@@ -9,7 +9,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 - 📍 Based in **Zamora, Spain**
 - 💼 Currently working as a **Mobile Developer** at [The Cocktail](https://www.the-cocktail.com/)
 - 🌩️ Transitioning into **Cloud & Cybersecurity**, building a hands-on portfolio
-- 🎯 Goal: become a **Cloud Security Engineer** combining app development, automation, and security
+- 🎯 Goal: become a **Cloud Security Engineer** 
 
 ---
 
@@ -41,15 +41,10 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 
 ### 🧩 Portfolio & Labs
 
-I’m currently building my **cybersecurity portfolio** focused on practical, real-world exercises.  
-My first completed lab explores **basic Bash scripting** — automating simple tasks and learning core Linux shell concepts.
+I’m currently building my **cybersecurity portfolio** focused on practical, real-world exercises.
 
-Future labs will include:
-- 🖥️ Network scanning and enumeration  
-- 🔍 Web exploitation basics  
-- ☁️ Cloud security exercises  
-
-🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs)  
+> I will keep this section updated as I complete new labs. Links and write-ups will be added progressively.
+🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs)
 
 ---
 
