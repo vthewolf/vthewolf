@@ -50,9 +50,9 @@ I’m currently building my cybersecurity portfolio, focused on practical, real-
 ---
 
 ### 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor%20Santiago-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vicsantiago1/)
-[![GitHub](https://img.shields.io/badge/GitHub-vthewolf-black?style=flat&logo=github)](https://github.com/vthewolf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor%20Santiago-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-santiago-ferrera/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-vthewolf-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/vsantiagoferrera)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsantiagoferrera@gmail.com)
 
 📫 **Email:** vsantiagoferrera@gmail.com  
 
