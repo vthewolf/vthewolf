@@ -45,13 +45,13 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 Previously, during my career as a mobile developer, I created several Android (Kotlin/Java) and Flutter (Dart) applications — available in my GitHub repositories.
 
 I’m currently building my cybersecurity portfolio, focused on practical, real-world exercises.
-🗂️ See progress here → Cybersecurity Labs Repository
+🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs)
 
 ---
 
 ### 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor%20Santiago-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santiago-ferrera/)   
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-vthewolf-green?style=flat&logo=tryhackme)](https://tryhackme.com/p/vsantiagoferrera)   
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-vsantiagoferrera-green?style=flat&logo=tryhackme)](https://tryhackme.com/p/vsantiagoferrera)   
 [![Mail](https://img.shields.io/badge/Gmail-vsantiagoferrera%40gmail.com-red?style=flat&logo=gmail)](mailto:vsantiagoferrera@gmail.com)
 
 ---
