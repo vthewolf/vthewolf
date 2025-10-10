@@ -41,10 +41,10 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 
 ### 🧩 Portfolio & Labs
 
-I’m currently building my **cybersecurity portfolio** focused on practical, real-world exercises.
+Previously, during my career as a mobile developer, I created several Android (Kotlin/Java) and Flutter (Dart) applications — available in my GitHub repositories.
 
-> I will keep this section updated as I complete new labs. Links and write-ups will be added progressively.
-🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs)
+I’m currently building my cybersecurity portfolio, focused on practical, real-world exercises.
+🗂️ See progress here → Cybersecurity Labs Repository
 
 ---
 
