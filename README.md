@@ -62,6 +62,7 @@ I’m currently building my cybersecurity portfolio, focused on practical, real-
 - 📈 I’m also interested in **investing & financial freedom**, exploring side projects using **AI & app development**.
 
 ---
+
+> "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."
 > 
-> "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are"
-> 
+> _Elliot Alderson
