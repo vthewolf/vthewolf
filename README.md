@@ -63,6 +63,5 @@ I’m currently building my cybersecurity portfolio, focused on practical, real-
 
 ---
 
-> "A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."
-> 
-> **- Elliot Alderson**
+> There is no spoon.
+
