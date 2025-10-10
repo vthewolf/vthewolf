@@ -54,9 +54,6 @@ I’m currently building my cybersecurity portfolio, focused on practical, real-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-vthewolf-green?style=flat&logo=tryhackme)](https://tryhackme.com/p/vsantiagoferrera)   
 [![Mail](https://img.shields.io/badge/Gmail-vsantiagoferrera%40gmail.com-red?style=flat&logo=gmail)](mailto:vsantiagoferrera@gmail.com)
 
-
-📫 **Email:** vsantiagoferrera@gmail.com  
-
 ---
 
 ### 💬 Fun facts
