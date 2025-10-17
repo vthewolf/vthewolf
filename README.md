@@ -35,7 +35,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 |-----------|----------------------|
 | **Development** | Kotlin, Java, Android, Jetpack Compose, Flutter, Dart |
 | **Cloud & DevOps (learning)** | Azure, AWS, Linux, Bash, Git, Docker, Kubernetes |
-| **Cybersecurity** | Nmap, Wireshark, Burp Suite, TryHackMe |
+| **Cybersecurity** | Nmap, Wireshark, Tcpdump, Burp Suite, TryHackMe |
 | **Scripting** | Python, Bash |
 
 ---
