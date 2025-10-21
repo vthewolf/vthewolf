@@ -22,7 +22,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 ---
 
 ### 🎓 Certifications
-- 🎓 **Google Cybersecurity Professional Certificate** (Coursera)  
+- 🎓 **Google Cybersecurity Professional Certificate**   
 - 🧩 **Cisco Introduction to Cybersecurity**  
 - 🧠 **TryHackMe Pre-Security Path**  
 - 🧱 **TryHackMe Cybersecurity 101 (in progress)**
