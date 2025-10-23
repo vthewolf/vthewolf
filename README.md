@@ -58,7 +58,7 @@ I’m currently building my cybersecurity portfolio, focused on practical, real-
 
 ### 💬 Fun facts
 - 🏋️‍♂️ I train CrossFit 5x a week and play golf on weekends.  
-- 🎮 Recently got a Nintendo Switch 2 — big fan of AAA titles.  
+- 🎮 Gamer — big fan of AAA titles.  
 - 📈 I’m also interested in **investing & financial freedom**, exploring side projects using **AI & app development**.
 
 ---
