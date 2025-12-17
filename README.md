@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Víctor Santiago
 
-🚀 **Android Developer** transitioning into **Cybersecurity & Cloud Security**.  
+🚀 **Cloud & DevOps engineer** transitioning into **Cybersecurity & Cloud Security**.  
 With 3+ years of experience building high-quality Android apps, I’m now focusing on strengthening my technical foundations in **networks, Linux, and security practices** to move into roles that bridge **software engineering, systems, and cybersecurity**.
 
 ---
