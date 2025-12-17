@@ -7,7 +7,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 
 ### 🧭 About me
 - 📍 Based in **Zamora, Spain**
-- 💼 Currently working as a **Mobile Developer** at [The Cocktail](https://www.the-cocktail.com/)
+- 💼 Currently working as a **Cloud & DevOps Engineer** at [The Cocktail](https://www.the-cocktail.com/)
 - 🌩️ Transitioning into **Cloud & Cybersecurity**, building a hands-on portfolio
 - 🎯 Goal: become a **Cloud Security Engineer** 
 
@@ -25,7 +25,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 - 🎓 **Google Cybersecurity Professional Certificate**   
 - 🧩 **Cisco Introduction to Cybersecurity**  
 - 🧠 **TryHackMe Pre-Security Path**  
-- 🧱 **TryHackMe Cybersecurity 101 (in progress)**
+- 🧱 **TryHackMe Cybersecurity 101**
 - :iphone: **Kotlin Expert**
 
 ---
