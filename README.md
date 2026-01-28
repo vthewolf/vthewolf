@@ -17,7 +17,8 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 - 🐧 Linux system administration & networking fundamentals  
 - ☁️ Cloud concepts (Azure & AWS)
 - 🧰 Practical cybersecurity (via **TryHackMe** and **Hack The Box**)  
-- 🐍 Python scripting for automation & security tools  
+- 🐍 Python scripting for automation & security tools
+- ⚓️ Docker, K8s, IaaC, Terraform 
 
 ---
 
