@@ -18,7 +18,8 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 - ☁️ Cloud concepts (Azure, AWS & GCP)
 - 🧰 Practical cybersecurity (via **TryHackMe** and **Hack The Box**)  
 - 🐍 Python scripting for automation & security tools
-- ⚓️ Docker, K8s, IaaC, Terraform 
+- ⚓️ Docker, K8s, IaaC, Terraform
+- 🤖 Building things with AI: Claude, Gemini, ChatGPT.
 
 ---
 
