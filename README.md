@@ -48,7 +48,9 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 Previously, during my career as a mobile developer, I created several Android (Kotlin/Java) and Flutter (Dart) applications — available in my GitHub repositories.
 
 I’m currently building my cybersecurity portfolio, focused on practical, real-world exercises.
-🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs)
+🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs) 
+
+I'm also building and AI bot trade agent. See progress here → [Trade Agent Bot](https://github.com/vthewolf/trading-bot)
 
 ---
 
