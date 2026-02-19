@@ -39,6 +39,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 | **Cloud & DevOps** | Azure, AWS, Terraform, Docker, Kubernetes |
 | **Cybersecurity** | Nmap, Wireshark, Tcpdump, Burp Suite, TryHackMe |
 | **Scripting** | Python, Bash |
+| **AI** | Claude, Gemini, Nano Banana, GPT |
 
 ---
 
