@@ -9,11 +9,11 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 - 📍 Based in **Zamora, Spain**
 - 💼 Currently working as a **Cloud & DevOps Engineer** at [The Cocktail](https://www.the-cocktail.com/)
 - 🌩️ Transitioning into **Cloud & Cybersecurity**, building a hands-on portfolio
-- 🎯 Goal: become a **Cloud Security Engineer** 
+- 🎯 Goal: become a **Cloud Security Analyst / DevSecOps Engineer** 
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 Currently Mastering
 - 🐧 Linux system administration & networking fundamentals  
 - ☁️ Cloud concepts (Azure, AWS & GCP)
 - 🧰 Practical cybersecurity (via **TryHackMe** and **Hack The Box**)  
@@ -39,7 +39,7 @@ With 3+ years of experience building high-quality Android apps, I’m now focusi
 | **Cloud & DevOps** | Azure, AWS, Terraform, Docker, Kubernetes |
 | **Cybersecurity** | Nmap, Wireshark, Tcpdump, Burp Suite, TryHackMe |
 | **Scripting** | Python, Bash |
-| **AI** | Claude, Gemini, Nano Banana, GPT |
+| **AI** | Claude, Gemini, GPT |
 
 ---
 
