@@ -8,26 +8,14 @@
 
 </div>
 
-🚀 **Cloud & DevOps engineer** transitioning into **Cybersecurity & Cloud Security**.  
+🚀 **Cloud & DevSecOps engineer** transitioning into **Cybersecurity & Cloud Security**.  
 With 3+ years of experience building high-quality Android apps, I'm now focusing on strengthening my technical foundations in **networks, Linux, and security practices** to move into roles that bridge **software engineering, systems, and cybersecurity**.
 
 ---
 
 ### 🧭 About me
-- 📍 Based in **Zamora, Spain**
-- 💼 Currently working as a **Cloud & DevOps Engineer** at [The Cocktail](https://www.the-cocktail.com/)
+- 💼 Currently working as a **Cloud & DevSecOps Engineer** at [The Cocktail](https://www.the-cocktail.com/)
 - 🌩️ Transitioning into **Cloud & Cybersecurity**, building a hands-on portfolio
-- 🎯 Goal: become a **Cloud Security Analyst / DevSecOps Engineer**
-
----
-
-### 🧠 Currently Mastering
-- 🐧 Linux system administration & networking fundamentals
-- ☁️ Cloud concepts (Azure, AWS & GCP)
-- 🧰 Practical cybersecurity (via **TryHackMe** and **Hack The Box**)
-- 🐍 Python scripting for automation & security tools
-- ⚓️ Docker, K8s, IaaC, Terraform
-- 🤖 Building things with AI: Claude, Gemini, ChatGPT.
 
 ---
 
@@ -60,18 +48,6 @@ I'm currently building my cybersecurity portfolio, focused on practical, real-wo
 
 🗂️ See progress here → [Cybersecurity Labs Repository](https://github.com/vthewolf/cybersecurity-labs)  
 I'm also building and AI bot trade agent. See progress here → [Trade Agent Bot](https://github.com/vthewolf/trading-bot)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vthewolf&theme=synthwave&show_icons=true&hide_border=true&count_private=false)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vthewolf&theme=synthwave&hide_border=true&layout=compact&langs_count=6)
-
-</div>
 
 ---
 
