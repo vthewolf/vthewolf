@@ -60,7 +60,7 @@ I'm also building and AI bot trade agent. See progress here → [Trade Agent Bot
 ---
 
 ### 💬 Fun facts
-- 🏋️‍♂️ I train CrossFit 5x a week and play golf on weekends.
+- 🏋️‍♂️ I train CrossFit and play golf on weekends.
 - 🎮 Gamer — big fan of AAA titles.
 - 📈 I'm also interested in **investing & financial freedom**, exploring side projects using **AI & app development**.
 
