@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;Transitioning+to+Cybersecurity+%F0%9F%94%90;Building+hands-on+labs+%F0%9F%9B%A0;There+is+no+spoon.)](https://github.com/vthewolf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevSecOps+Engineer+%F0%9F%9A%80;Transitioning+to+Cybersecurity+%F0%9F%94%90;Building+hands-on+labs+%F0%9F%9B%A0;There+is+no+spoon.)](https://github.com/vthewolf)
 
 </div>
 
